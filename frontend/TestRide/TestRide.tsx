@@ -1,0 +1,1 @@
+export default function TestRide() { return <section>TestRide</section>; }

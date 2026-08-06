@@ -1,0 +1,1 @@
+export default function Vehicles() { return <section>Vehicles</section>; }
